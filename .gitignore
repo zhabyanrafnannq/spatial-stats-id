@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Lingkungan
+.venv/
+venv/
+
+# Sumber mentah (diambil ulang lewat scripts/fetch_sources.py)
+data/sources/*.pdf
+data/sources/*.geojson
+data/sources/*.json
+data/sources/*.zip
+
+# Cache BPS
+data/bps_cache/
+
+# Lain-lain
+.DS_Store
+.env

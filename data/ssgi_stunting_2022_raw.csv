@@ -1,0 +1,526 @@
+provinsi_buku,label_buku,stunting,halaman
+ACEH,Kota Subulussalam,47.9,16
+ACEH,Kab. Aceh Utara,38.3,16
+ACEH,Kab. Pidie Jaya,37.8,16
+ACEH,Kab. Simeulue,37.2,16
+ACEH,Kab. Bener Meriah,37.0,16
+ACEH,Kab. Aceh Tenggara,36.7,16
+ACEH,Kab. Aceh Barat Daya,35.2,16
+ACEH,Kab. Aceh Selatan,34.8,16
+ACEH,Kab. Gayo Lues,34.6,16
+ACEH,Kab. Aceh Singkil,34.0,16
+ACEH,Kab. Aceh Timur,33.6,16
+ACEH,Kab. Aceh Tengah,32.0,16
+ACEH,Aceh,31.2,16
+ACEH,Kab. Aceh Barat,30.4,16
+ACEH,Kab. Nagan Raya,28.8,16
+ACEH,Kota Lhokseumawe,28.1,16
+ACEH,Kab. Pidie,27.8,16
+ACEH,Kab. Aceh Tamiang,27.4,16
+ACEH,Kab. Aceh Besar,27.0,16
+ACEH,Kota Banda Aceh,25.1,16
+ACEH,Kab. Bireuen,23.4,16
+ACEH,Kota Sabang,23.4,16
+ACEH,Kota Langsa,22.1,16
+ACEH,Kab. Aceh Jaya,19.9,16
+SUMATERA UTARA,Kab. Tapanuli Selatan,39.4,17
+SUMATERA UTARA,Kab. Padang Lawas,35.8,17
+SUMATERA UTARA,Kab. Mandailing Natal,34.2,17
+SUMATERA UTARA,Kab. Pakpak Bharat,30.8,17
+SUMATERA UTARA,Kab. Tapanuli Tengah,30.5,17
+SUMATERA UTARA,Kab. Humbang Hasundutan,29.6,17
+SUMATERA UTARA,Kab. Nias Barat,29.4,17
+SUMATERA UTARA,Kab. Padang Lawas Utara,29.2,17
+SUMATERA UTARA,Kota Padangsidampuan,28.8,17
+SUMATERA UTARA,Kab. Dairi,28.6,17
+SUMATERA UTARA,Kab. Tapanuli Utara,27.4,17
+SUMATERA UTARA,Kab. Nias Selatan,27.2,17
+SUMATERA UTARA,Kota Tanjung Balai,26.9,17
+SUMATERA UTARA,Kab. Labuhan Batu Selatan,26.4,17
+SUMATERA UTARA,Kab. Samosir,26.3,17
+SUMATERA UTARA,Kab. Nias,25.3,17
+SUMATERA UTARA,Kab. Karo,24.9,17
+SUMATERA UTARA,Kab. Toba,24.8,17
+SUMATERA UTARA,Kab. Labuhan Batu,23.9,17
+SUMATERA UTARA,Kab. Batu Bara,21.7,17
+SUMATERA UTARA,Kab. Serdang Bedagai,21.1,17
+SUMATERA UTARA,Sumatera Utara,21.1,17
+SUMATERA UTARA,Kota Tebing Tinggi,19.6,17
+SUMATERA UTARA,Kota Binjai,18.7,17
+SUMATERA UTARA,Kab. Langkat,18.6,17
+SUMATERA UTARA,Kota Gunungsitoli,17.7,17
+SUMATERA UTARA,Kab. Simalungun,17.4,17
+SUMATERA UTARA,Kota Medan,15.4,17
+SUMATERA UTARA,Kab. Asahan,15.3,17
+SUMATERA UTARA,Kota Sibolga,14.5,17
+SUMATERA UTARA,Kota Pematang Siantar,14.3,17
+SUMATERA UTARA,Kab. Deli Serdang,13.9,17
+SUMATERA UTARA,Kab. Nias Utara,11.9,17
+SUMATERA UTARA,Kab. Labuhan Batu Utara,7.3,17
+SUMATERA BARAT,Kab. Pasaman Barat,35.5,18
+SUMATERA BARAT,Kab. Kepulauan Mentawai,32.0,18
+SUMATERA BARAT,Kab. Solok Selatan,31.7,18
+SUMATERA BARAT,Kab. Sijunjung,30.0,18
+SUMATERA BARAT,Kab. Pesisir Selatan,29.8,18
+SUMATERA BARAT,Kab. Pasaman,28.9,18
+SUMATERA BARAT,Sumatera Barat,25.2,18
+SUMATERA BARAT,Kab. Padang Pariaman,25.0,18
+SUMATERA BARAT,Kab. Dharmas Raya,24.6,18
+SUMATERA BARAT,Kab. Agam,24.6,18
+SUMATERA BARAT,Kab. Lima Puluh Kota,24.3,18
+SUMATERA BARAT,Kab. Solok,24.2,18
+SUMATERA BARAT,Kota Padang,19.5,18
+SUMATERA BARAT,Kab. Tanah Datar,18.9,18
+SUMATERA BARAT,Kota Pariaman,18.4,18
+SUMATERA BARAT,Kota Solok,18.1,18
+SUMATERA BARAT,Kota Payakumbuh,17.8,18
+SUMATERA BARAT,Kota Padang Panjang,16.8,18
+SUMATERA BARAT,Kota Bukittinggi,16.8,18
+SUMATERA BARAT,Kota Sawah Lunto,13.7,18
+RIAU,Kab. Indragiri Hilir,28.5,19
+RIAU,Kab. Siak,22.0,19
+RIAU,Kab. Rokan Hulu,22.0,19
+RIAU,Kab. Kuantan Singingi,17.8,19
+RIAU,Kab. Kepulauan Meranti,17.5,19
+RIAU,Riau,17.0,19
+RIAU,Kota Pekan Baru,16.8,19
+RIAU,Kab. Indragiri Hulu,16.7,19
+RIAU,Kab. Rokan Hilir,14.7,19
+RIAU,Kab. Kampar,14.5,19
+RIAU,Kota Dumai,12.8,19
+RIAU,Kab. Pelalawan,11.2,19
+RIAU,Kab. Bengkalis,8.4,19
+JAMBI,Kab. Batanghari,26.3,20
+JAMBI,Kota Sungai Penuh,26.0,20
+JAMBI,Kab. Tebo,25.0,20
+JAMBI,Kab. Kerinci,24.2,20
+JAMBI,Kab. Tanjung Jabung Timur,22.5,20
+JAMBI,Kab. Muaro Jambi,18.6,20
+JAMBI,Jambi,18.0,20
+JAMBI,Kab. Sarolangun,16.8,20
+JAMBI,Kab. Bungo,15.4,20
+JAMBI,Kab. Merangin,14.5,20
+JAMBI,Kota Jambi,14.0,20
+JAMBI,Kab. Tanjung Jabung Barat,9.9,20
+SUMATERA SELATAN,Kab. Musi Rawas,25.4,21
+SUMATERA SELATAN,Kab. Ogan Ilir,24.9,21
+SUMATERA SELATAN,Kab. Banyu Asin,24.8,21
+SUMATERA SELATAN,Kab. Muara Enim,22.8,21
+SUMATERA SELATAN,Kab. Musi Rawas Utara,20.2,21
+SUMATERA SELATAN,Kab. Ogan Komering Ulu,19.9,21
+SUMATERA SELATAN,Kab. Ogan Komering Ulu Selatan,19.4,21
+SUMATERA SELATAN,Kab. Ogan Komering Ulu Timur,19.1,21
+SUMATERA SELATAN,Kab. Lahat,19.0,21
+SUMATERA SELATAN,Sumatera Selatan,18.6,21
+SUMATERA SELATAN,Kab. Empat Lawang,18.5,21
+SUMATERA SELATAN,Kab. Musi Banyu Asin,17.7,21
+SUMATERA SELATAN,Kab. Ogan Komering Ilir,15.1,21
+SUMATERA SELATAN,Kab. penukal Abab Lematang Ilir,14.6,21
+SUMATERA SELATAN,Kota Palembang,14.3,21
+SUMATERA SELATAN,Kota Prabumulih,12.3,21
+SUMATERA SELATAN,Kota Lubuk Linggau,11.7,21
+SUMATERA SELATAN,Kota Pagar Alam,11.6,21
+BENGKULU,Kab. Kepahiang,24.9,22
+BENGKULU,Kab. Bengkulu Selatan,23.2,22
+BENGKULU,Kab. Bengkulu Utara,22.8,22
+BENGKULU,Kab. Mukomuko,22.3,22
+BENGKULU,Kab. Seluma,22.1,22
+BENGKULU,Kab. Bengkulu Tengah,21.2,22
+BENGKULU,Kab. Rejang Lebong,20.2,22
+BENGKULU,Kab. Lebong,20.2,22
+BENGKULU,Bengkulu,19.8,22
+BENGKULU,Kota Bengkulu,12.9,22
+BENGKULU,Kab. Kaur,12.4,22
+LAMPUNG,Kab. Pesawaran,25.1,23
+LAMPUNG,Kab. Lampung Utara,24.7,23
+LAMPUNG,Kab. Mesuji,22.5,23
+LAMPUNG,Kab. Tanggamus,20.4,23
+LAMPUNG,Kab. Way Kanan,18.4,23
+LAMPUNG,Kab. Lampung Timur,18.1,23
+LAMPUNG,Kab. Pesisir Barat,16.7,23
+LAMPUNG,Kab. Lampung Barat,16.6,23
+LAMPUNG,Kab. Tulangbawang Barat,16.4,23
+LAMPUNG,Kab. Pringsewu,16.2,23
+LAMPUNG,Lampung,15.2,23
+LAMPUNG,Kota Bandar Lampung,11.1,23
+LAMPUNG,Kota Metro,10.4,23
+LAMPUNG,Kab. Tulang Bawang,10.2,23
+LAMPUNG,Kab. Lampung Selatan,9.9,23
+LAMPUNG,Kab. Lampung Tengah,8.7,23
+KEP. BANGKA BELITUNG,Kab. Bangka Selatan,23.0,24
+KEP. BANGKA BELITUNG,Kab. Bangka Tengah,21.2,24
+KEP. BANGKA BELITUNG,Kab. Bangka Barat,20.5,24
+KEP. BANGKA BELITUNG,Kab. Belitung,19.6,24
+KEP. BANGKA BELITUNG,Kep.Bangka Belitung,18.5,24
+KEP. BANGKA BELITUNG,Kab. Bangka,16.2,24
+KEP. BANGKA BELITUNG,Kab. Belitung Timur,16.0,24
+KEP. BANGKA BELITUNG,Kota Pangkal Pinang,12.9,24
+KEP. RIAU,Kab. Lingga,18.9,25
+KEP. RIAU,Kab. Natuna,18.0,25
+KEP. RIAU,Kab. Bintan,17.8,25
+KEP. RIAU,Kota Tanjung Pinang,15.7,25
+KEP. RIAU,Kepulauan Riau,15.4,25
+KEP. RIAU,Kota Batam,15.2,25
+KEP. RIAU,Kab. Kepulauan Anambas,14.0,25
+KEP. RIAU,Kab. Karimun,13.3,25
+DKI JAKARTA,Kab. Kepulauan Seribu,20.5,26
+DKI JAKARTA,Kota Jakarta Utara,18.5,26
+DKI JAKARTA,Kota Jakarta Barat,15.2,26
+DKI JAKARTA,DKI Jakarta,14.8,26
+DKI JAKARTA,Kota Jakarta Timur,14.4,26
+DKI JAKARTA,Kota Jakarta Pusat,14.0,26
+DKI JAKARTA,Kota Jakarta Selatan,11.9,26
+JAWA BARAT,Kab. Sumedang,27.6,27
+JAWA BARAT,Kab. Sukabumi,27.5,27
+JAWA BARAT,Kab. Bandung Barat,27.3,27
+JAWA BARAT,Kab. Tasikmalaya,27.2,27
+JAWA BARAT,Kab. Bandung,25.0,27
+JAWA BARAT,Kab. Bogor,24.9,27
+JAWA BARAT,Kab. Majalengka,24.3,27
+JAWA BARAT,Kab. Garut,23.6,27
+JAWA BARAT,Kota Tasikmalaya,22.4,27
+JAWA BARAT,Kab. Purwakarta,21.8,27
+JAWA BARAT,Kab. Indramayu,21.1,27
+JAWA BARAT,Jawa Barat,20.2,27
+JAWA BARAT,Kab. Pangandaran,20.0,27
+JAWA BARAT,Kab. Kuningan,19.4,27
+JAWA BARAT,Kota Bandung,19.4,27
+JAWA BARAT,Kota Banjar,19.3,27
+JAWA BARAT,Kota Sukabumi,19.2,27
+JAWA BARAT,Kota Bogor,18.7,27
+JAWA BARAT,Kab. Cirebon,18.6,27
+JAWA BARAT,Kab. Ciamis,18.6,27
+JAWA BARAT,Kab. Bekasi,17.8,27
+JAWA BARAT,Kota Cirebon,17.0,27
+JAWA BARAT,Kota Cimahi,16.4,27
+JAWA BARAT,Kab. Subang,15.7,27
+JAWA BARAT,Kab. Karawang,14.0,27
+JAWA BARAT,Kab. Cianjur,13.6,27
+JAWA BARAT,Kota Depok,12.6,27
+JAWA BARAT,Kota Bekasi,6.0,27
+JAWA TENGAH,Kab. Brebes,29.1,28
+JAWA TENGAH,Kab. Temanggung,28.9,28
+JAWA TENGAH,Kab. Magelang,28.2,28
+JAWA TENGAH,Kab. Purbalingga,26.8,28
+JAWA TENGAH,Kab. Blora,25.8,28
+JAWA TENGAH,Kab. Rembang,24.3,28
+JAWA TENGAH,Kab. Sragen,24.3,28
+JAWA TENGAH,Kab. Batang,23.5,28
+JAWA TENGAH,Kab. Pekalongan,23.5,28
+JAWA TENGAH,Kota Pekalongan,23.1,28
+JAWA TENGAH,Kab. Pati,23.0,28
+JAWA TENGAH,Kab. Wonosobo,22.7,28
+JAWA TENGAH,Kab. Karanganyar,22.3,28
+JAWA TENGAH,Kab. Tegal,22.3,28
+JAWA TENGAH,Kab. Banjarnegara,22.2,28
+JAWA TENGAH,Kab. Kebumen,22.1,28
+JAWA TENGAH,Kab. Purworejo,21.3,28
+JAWA TENGAH,Jawa Tengah,20.8,28
+JAWA TENGAH,Kab. Boyolali,20.0,28
+JAWA TENGAH,Kab. Pemalang,19.8,28
+JAWA TENGAH,Kab. Sukoharjo,19.8,28
+JAWA TENGAH,Kab. Grobogan,19.3,28
+JAWA TENGAH,Kab. Kudus,19.0,28
+JAWA TENGAH,Kab. Semarang,18.7,28
+JAWA TENGAH,Kab. Jepara,18.2,28
+JAWA TENGAH,Kab. Klaten,18.2,28
+JAWA TENGAH,Kab. Wonogiri,18.0,28
+JAWA TENGAH,Kab. Cilacap,17.6,28
+JAWA TENGAH,Kab. Kendal,17.5,28
+JAWA TENGAH,Kota Tegal,16.8,28
+JAWA TENGAH,Kab. Banyumas,16.6,28
+JAWA TENGAH,Kota Surakarta,16.2,28
+JAWA TENGAH,Kab. Demak,16.2,28
+JAWA TENGAH,Kota Salatiga,14.2,28
+JAWA TENGAH,Kota Magelang,13.9,28
+JAWA TENGAH,Kota Semarang,10.4,28
+DI YOGYAKARTA,Kab. Gunung Kidul,23.5,29
+DI YOGYAKARTA,DI Yogyakarta,16.4,29
+DI YOGYAKARTA,Kab. Kulon Progo,15.8,29
+DI YOGYAKARTA,Kab. Sleman,15.0,29
+DI YOGYAKARTA,Kab. Bantul,14.9,29
+DI YOGYAKARTA,Kota Yogyakarta,13.8,29
+JAWA TIMUR,Kab. Jember,34.9,30
+JAWA TIMUR,Kab. Bondowoso,32.0,30
+JAWA TIMUR,Kab. Situbondo,30.9,30
+JAWA TIMUR,Kab. Ngawi,28.5,30
+JAWA TIMUR,Kab. Lamongan,27.5,30
+JAWA TIMUR,Kab. Bangkalan,26.2,30
+JAWA TIMUR,Kota Batu,25.2,30
+JAWA TIMUR,Kab. Tuban,24.9,30
+JAWA TIMUR,Kab. Bojonegoro,24.3,30
+JAWA TIMUR,Kab. Lumajang,23.8,30
+JAWA TIMUR,Kota Probolinggo,23.3,30
+JAWA TIMUR,Kab. Malang=Kepanjen,23.0,30
+JAWA TIMUR,Kab. Jombang,22.1,30
+JAWA TIMUR,Kab. Kediri,21.6,30
+JAWA TIMUR,Kab. Sumenep,21.6,30
+JAWA TIMUR,Kota Pasuruan,21.1,30
+JAWA TIMUR,Kab. Pacitan,20.6,30
+JAWA TIMUR,Kab. Pasuruan,20.5,30
+JAWA TIMUR,Kab. Nganjuk,20.0,30
+JAWA TIMUR,Kab. Trenggalek,19.5,30
+JAWA TIMUR,Jawa Timur,19.2,30
+JAWA TIMUR,Kab. Banyuwangi,18.1,30
+JAWA TIMUR,Kota Malang,18.0,30
+JAWA TIMUR,Kab. Madiun,17.6,30
+JAWA TIMUR,Kab. Tulungagung,17.3,30
+JAWA TIMUR,Kab. Probolinggo,17.3,30
+JAWA TIMUR,Kab. Sidoarjo,16.1,30
+JAWA TIMUR,Kab. Magetan,14.9,30
+JAWA TIMUR,Kab. Blitar,14.3,30
+JAWA TIMUR,Kota Kediri,14.3,30
+JAWA TIMUR,Kab. Ponorogo,14.2,30
+JAWA TIMUR,Kota Blitar,12.8,30
+JAWA TIMUR,Kab. Mojokerto,11.6,30
+JAWA TIMUR,Kab. Gresik,10.7,30
+JAWA TIMUR,Kota Madiun,9.7,30
+JAWA TIMUR,Kota Mojokerto,8.4,30
+JAWA TIMUR,Kab. Pamekasan,8.1,30
+JAWA TIMUR,Kab. Sampang,6.9,30
+JAWA TIMUR,Kota Surabaya,4.8,30
+BANTEN,Kab. Pandeglang,29.4,31
+BANTEN,Kab. Serang,26.4,31
+BANTEN,Kab. Lebak,26.2,31
+BANTEN,Kota Serang,23.8,31
+BANTEN,Kab. Tangerang,21.1,31
+BANTEN,Banten,20.0,31
+BANTEN,Kota Cilegon,19.1,31
+BANTEN,Kota Tangerang,11.8,31
+BANTEN,Kota Tangerang Selatan,9.0,31
+BALI,Kab. Jembrana,14.2,32
+BALI,Kab. Buleleng,11.0,32
+BALI,Kab. Karangasem,9.2,32
+BALI,Kab. Bangli,9.1,32
+BALI,Kab. Tabanan,8.2,32
+BALI,Bali,8.0,32
+BALI,Kab. Klungkung,7.7,32
+BALI,Kab. Badung,6.6,32
+BALI,Kab. Gianyar,6.3,32
+BALI,Kota Denpasar,5.5,32
+NTB,Kab. Lombok Tengah,37.0,33
+NTB,Kab. Lombok Utara,35.9,33
+NTB,Kab. Lombok Timur,35.6,33
+NTB,Kab. Dompu,34.5,33
+NTB,Kab. Lombok Barat,34.0,33
+NTB,Nusa Tenggara Barat,32.7,33
+NTB,Kota Bima,31.2,33
+NTB,Kab. Sumbawa,29.7,33
+NTB,Kab. Bima,29.5,33
+NTB,Kota Mataram,25.8,33
+NTB,Kab. Sumbawa Barat,13.9,33
+KALIMANTAN BARAT,Kab. Melawi,44.1,34
+KALIMANTAN BARAT,Kab. Kapuas Hulu,37.9,34
+KALIMANTAN BARAT,Kab. Sekadau,35.5,34
+KALIMANTAN BARAT,Kab. Sanggau,32.5,34
+KALIMANTAN BARAT,Kab. Landak,32.5,34
+KALIMANTAN BARAT,Kab. Sambas,30.5,34
+KALIMANTAN BARAT,Kab. Bengkayang,30.1,34
+KALIMANTAN BARAT,Kalimantan Barat,27.8,34
+KALIMANTAN BARAT,Kab. Kubu Raya,27.6,34
+KALIMANTAN BARAT,Kab. Kayong Utara,25.1,34
+KALIMANTAN BARAT,Kab. Mempawah,25.1,34
+KALIMANTAN BARAT,Kota Singkawang,23.5,34
+KALIMANTAN BARAT,Kab. Ketapang,22.3,34
+KALIMANTAN BARAT,Kota Pontianak,19.7,34
+KALIMANTAN BARAT,Kab. Sintang,18.7,34
+KALIMANTAN TENGAH,Kab. Murung Raya,40.9,35
+KALIMANTAN TENGAH,Kab. Barito Selatan,35.6,35
+KALIMANTAN TENGAH,Kab. Seruyan,34.7,35
+KALIMANTAN TENGAH,Kab. Pulang Pisau,31.6,35
+KALIMANTAN TENGAH,Kab. Katingan,29.9,35
+KALIMANTAN TENGAH,Kotawaringin Timur,27.9,35
+KALIMANTAN TENGAH,Kota Palangka Raya,27.8,35
+KALIMANTAN TENGAH,Kalimantan Tengah,26.9,35
+KALIMANTAN TENGAH,Kab. Barito Timur,26.9,35
+KALIMANTAN TENGAH,Kab. Lamandau,25.5,35
+KALIMANTAN TENGAH,Kab. Sukamara,21.8,35
+KALIMANTAN TENGAH,Kotawaringin Barat,21.1,35
+KALIMANTAN TENGAH,Kab. Kapuas,20.1,35
+KALIMANTAN TENGAH,Kab. Barito Utara,19.6,35
+KALIMANTAN TENGAH,Kab. Gunung Mas,17.9,35
+KALIMANTAN SELATAN,Kab. Barito Kuala,33.6,36
+KALIMANTAN SELATAN,Kota Baru,31.6,36
+KALIMANTAN SELATAN,Kab. Hulu Sungai Tengah,31.1,36
+KALIMANTAN SELATAN,Kab. Balangan,29.8,36
+KALIMANTAN SELATAN,Kab. Hulu Sungai Utara,28.0,36
+KALIMANTAN SELATAN,Kab. Tanah Laut,26.6,36
+KALIMANTAN SELATAN,Kab. Banjar,26.4,36
+KALIMANTAN SELATAN,Kalimantan Selatan,24.6,36
+KALIMANTAN SELATAN,Kota Banjarmasin,22.4,36
+KALIMANTAN SELATAN,Kota Banjar Baru,22.1,36
+KALIMANTAN SELATAN,Kab. Hulu Sungai Selatan,20.3,36
+KALIMANTAN SELATAN,Kab. Tabalong,19.7,36
+KALIMANTAN SELATAN,Kab. Tanah Bumbu,16.1,36
+KALIMANTAN SELATAN,Kab. Tapin,14.5,36
+KALIMANTAN TIMUR,Kab. Kutai Kartanegara,27.1,37
+KALIMANTAN TIMUR,Kota Samarinda,25.3,37
+KALIMANTAN TIMUR,Kab. Paser,24.9,37
+KALIMANTAN TIMUR,Kab. Kutai Timur,24.7,37
+KALIMANTAN TIMUR,Kalimantan Timur,23.9,37
+KALIMANTAN TIMUR,Kab. Kutai Barat,23.1,37
+KALIMANTAN TIMUR,Kab. Penajam Paser Utara,21.8,37
+KALIMANTAN TIMUR,Kab. Berau,21.6,37
+KALIMANTAN TIMUR,Kota Bontang,21.0,37
+KALIMANTAN TIMUR,Kota Balikpapan,19.6,37
+KALIMANTAN TIMUR,Kab. Mahakam Hulu,14.8,37
+KALIMANTAN UTARA,Kab. Tana Tidung,30.7,38
+KALIMANTAN UTARA,Kab. Nunukan,30.5,38
+KALIMANTAN UTARA,Kab. Malinau,23.5,38
+KALIMANTAN UTARA,Kalimantan Utara,22.1,38
+KALIMANTAN UTARA,Kab. Bulungan,18.9,38
+KALIMANTAN UTARA,Kota Tarakan,15.4,38
+SULAWESI UTARA,Kab. Bolaang Mongondow Timur,30.0,39
+SULAWESI UTARA,Kab. Bolaang Mongondow Selatan,27.9,39
+SULAWESI UTARA,Kab. Minahasa Tenggara,26.5,39
+SULAWESI UTARA,Kab. Kepulauan Talaud,26.0,39
+SULAWESI UTARA,Kota Bitung,23.5,39
+SULAWESI UTARA,Kota Mobagu,22.9,39
+SULAWESI UTARA,Kab. Bolang Mongondow Utara,21.9,39
+SULAWESI UTARA,Sulawesi Utara,20.5,39
+SULAWESI UTARA,Kab. Minahasa Utara,20.5,39
+SULAWESI UTARA,Kab. Minahasa Selatan,19.2,39
+SULAWESI UTARA,Kab. Bolang Mongondow,19.0,39
+SULAWESI UTARA,Kab. Sangihe Talaud,18.5,39
+SULAWESI UTARA,Kota Manado,18.4,39
+SULAWESI UTARA,Kab. Minahasa,16.5,39
+SULAWESI UTARA,Kab. Kep. Siau Tagolandang Biaro,14.4,39
+SULAWESI UTARA,Kota Tomohon,13.7,39
+SULAWESI TENGAH,Kab. Sigi,36.8,40
+SULAWESI TENGAH,Kab. Buol,32.7,40
+SULAWESI TENGAH,Kab. Banggai Kepulauan,32.6,40
+SULAWESI TENGAH,Kab. Donggala,32.4,40
+SULAWESI TENGAH,Kab. Tojo Una-Una,31.3,40
+SULAWESI TENGAH,Kab. Toli-toli,30.7,40
+SULAWESI TENGAH,Sulawesi Tengah,28.2,40
+SULAWESI TENGAH,Kab. Parigi Moutong,27.4,40
+SULAWESI TENGAH,Kota Palu,24.7,40
+SULAWESI TENGAH,Kab. Morowali Utara,24.7,40
+SULAWESI TENGAH,Kab. Poso,24.6,40
+SULAWESI TENGAH,Kab. Banggai,24.3,40
+SULAWESI TENGAH,Kab. Morowali,23.3,40
+SULAWESI TENGAH,Kab. Banggai laut,20.0,40
+SULAWESI SELATAN,Kab. Jeneponto,39.8,41
+SULAWESI SELATAN,Kab. Tana Toraja,35.4,41
+SULAWESI SELATAN,Kab. Pangkajene Kepulauan,34.2,41
+SULAWESI SELATAN,Kab. Toraja Utara,34.1,41
+SULAWESI SELATAN,Kab. Gowa,33.0,41
+SULAWESI SELATAN,Kab. Selayar,32.1,41
+SULAWESI SELATAN,Kab. Takalar,31.3,41
+SULAWESI SELATAN,Kab. Maros,30.1,41
+SULAWESI SELATAN,Kab. Luwu Utara,29.8,41
+SULAWESI SELATAN,Kab. Sinjai,29.4,41
+SULAWESI SELATAN,Kab. Wajo,28.6,41
+SULAWESI SELATAN,Kab. Bulukumba,28.4,41
+SULAWESI SELATAN,Kab. Bone,27.8,41
+SULAWESI SELATAN,Kab. Sidenreng Rappang,27.3,41
+SULAWESI SELATAN,Sulawesi Selatan,27.2,41
+SULAWESI SELATAN,Kota Pare-pare,27.1,41
+SULAWESI SELATAN,Kab. Soppeng,26.9,41
+SULAWESI SELATAN,Kab. Luwu,26.7,41
+SULAWESI SELATAN,Kab. Enrekang,26.4,41
+SULAWESI SELATAN,Kota Palopo,23.8,41
+SULAWESI SELATAN,Kab. Luwu Timur,22.6,41
+SULAWESI SELATAN,Kab. Bantaeng,22.1,41
+SULAWESI SELATAN,Kab. Pinrang,20.9,41
+SULAWESI SELATAN,Kota Makassar,18.4,41
+SULAWESI SELATAN,Kab. Barru,14.1,41
+SULAWESI TENGGARA,Kab. Buton Tengah,41.6,42
+SULAWESI TENGGARA,Kab. Bombana,35.3,42
+SULAWESI TENGGARA,Kab. Buton Selatan,32.6,42
+SULAWESI TENGGARA,Kab. Buton,32.6,42
+SULAWESI TENGGARA,Kab. Konawe Kepulauan,32.3,42
+SULAWESI TENGGARA,Kab. Muna Barat,31.7,42
+SULAWESI TENGGARA,Kab. Muna,31.3,42
+SULAWESI TENGGARA,Kab. Buton Utara,31.2,42
+SULAWESI TENGGARA,Kab. Wakatobi,29.9,42
+SULAWESI TENGGARA,Kab. Konawe,28.3,42
+SULAWESI TENGGARA,Kab. Konawe Selatan,28.0,42
+SULAWESI TENGGARA,Sulawesi Tenggara,27.7,42
+SULAWESI TENGGARA,Kota Bau-bau,26.0,42
+SULAWESI TENGGARA,Kab. Kolaka Utara,24.8,42
+SULAWESI TENGGARA,Kab. Kolaka Timur,23.7,42
+SULAWESI TENGGARA,Kab. Kolaka,22.6,42
+SULAWESI TENGGARA,Kab. Konawe Utara,21.6,42
+SULAWESI TENGGARA,Kota Kendari,19.5,42
+GORONTALO,Kab. Gorontalo,30.8,43
+GORONTALO,Kab. Boalemo,29.9,43
+GORONTALO,Kab. Gorontalo Utara,29.3,43
+GORONTALO,Gorontalo,23.8,43
+GORONTALO,Kab. Bone Bolango,22.3,43
+GORONTALO,Kota Gorontalo,19.1,43
+GORONTALO,Kab. Pohuwato,6.4,43
+SULAWESI BARAT,Kab. Majene,40.6,44
+SULAWESI BARAT,Kab. Polewali Mandar,39.3,44
+SULAWESI BARAT,Kab. Mamasa,38.6,44
+SULAWESI BARAT,Sulawesi Barat,35.0,44
+SULAWESI BARAT,Kab. Mamuju,33.8,44
+SULAWESI BARAT,Kab. Mamuju Tengah,28.1,44
+SULAWESI BARAT,Kab. Pasangkayu,25.8,44
+MALUKU,Kab. Buru Selatan,41.6,45
+MALUKU,Kab. Kepulauan Tanimbar,31.5,45
+MALUKU,Kab. Kepulauan Aru,28.1,45
+MALUKU,Kab. Seram Bagian Barat,27.5,45
+MALUKU,Kab. Maluku Tengah,27.0,45
+MALUKU,Kab. Kepulauan Kei,26.8,45
+MALUKU,Maluku,26.1,45
+MALUKU,Kab. Maluku Barat Daya,25.7,45
+MALUKU,Kota Tual,24.9,45
+MALUKU,Kab. Seram Bagian Timur,24.1,45
+MALUKU,Kab. Buru,23.3,45
+MALUKU,Kota Ambon,21.1,45
+MALUKU UTARA,Kab. Halmahera Timur,32.3,46
+MALUKU UTARA,Kab. Halmahera Tengah,32.2,46
+MALUKU UTARA,Kab. Halmahera Selatan,31.4,46
+MALUKU UTARA,Kab. Pulau Morotai,31.2,46
+MALUKU UTARA,Kab. Kepulauan Sula,28.5,46
+MALUKU UTARA,Maluku Utara,26.1,46
+MALUKU UTARA,Kab. Halmahera Utara,24.9,46
+MALUKU UTARA,Kab. Halmahera Barat,23.9,46
+MALUKU UTARA,Kab. Pulau Taliabu,23.7,46
+MALUKU UTARA,Kab. Tidore Kepulauan,19.1,46
+MALUKU UTARA,Kab. Ternate,17.7,46
+PAPUA BARAT,Kab. Pegunungan Arfak,51.5,47
+PAPUA BARAT,Kab. Tambrauw,39.1,47
+PAPUA BARAT,Kab. Sorong Selatan,36.7,47
+PAPUA BARAT,Kab. Manokwari,36.6,47
+PAPUA BARAT,Kab. Raja Ampat,31.1,47
+PAPUA BARAT,Papua Barat,30.0,47
+PAPUA BARAT,Kab. Kaimana,29.2,47
+PAPUA BARAT,Kab. Fak-fak,29.0,47
+PAPUA BARAT,Kab. Maybrat,27.3,47
+PAPUA BARAT,Kota Sorong,27.2,47
+PAPUA BARAT,Kab. Manokwari Selatan,27.2,47
+PAPUA BARAT,Kab. Teluk Wondama,26.1,47
+PAPUA BARAT,Kab. Sorong,23.8,47
+PAPUA BARAT,Kab. Teluk Bintuni,22.8,47
+PAPUA,Kab. Asmat,54.5,48
+PAPUA,Kab. Yahukimo,53.3,48
+PAPUA,Kab. Nduga,50.2,48
+PAPUA,Kab. Tolikara,50.1,48
+PAPUA,Kab. Pegunungan Bintang,48.9,48
+PAPUA,Kab. Jayawijaya,46.7,48
+PAPUA,Kab. Paniai,45.2,48
+PAPUA,Kab. Puncak Jaya,42.5,48
+PAPUA,Kab. Puncak Jaya,42.0,48
+PAPUA,Kab. Mamberano Tengah,41.1,48
+PAPUA,Kab. Supiori,40.2,48
+PAPUA,Kab. Yalimo,38.2,48
+PAPUA,Kab. Boven Digoel,37.2,48
+PAPUA,Kab. Intan Jaya,35.4,48
+PAPUA,Kab. Dogiyai,35.1,48
+PAPUA,Kab. Lanny Jaya,34.8,48
+PAPUA,Papua,34.6,48
+PAPUA,Kab. Mimika,33.0,48
+PAPUA,Kab. Kepulauan Yapen,31.1,48
+PAPUA,Kab. Mappi,29.6,48
+PAPUA,Kab. Mamberamo Raya,29.0,48
+PAPUA,Kab. Biak Numfor,27.3,48
+PAPUA,Kab. Keerom,25.9,48
+PAPUA,Kab. Sarmi,25.6,48
+PAPUA,Kab. Merauke,23.7,48
+PAPUA,Kab. Waropen,22.2,48
+PAPUA,Kota Jayapura,20.6,48
+PAPUA,Kab. Jayapura,20.2,48
+PAPUA,Kab. Nabire,17.1,48
+PAPUA,Kab. Deiyai,13.4,48
