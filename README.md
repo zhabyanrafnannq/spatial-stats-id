@@ -78,6 +78,10 @@ python scripts/build_indicators.py data/sources/indikator_bps_2022.csv data/ssgi
 pytest tests/ -q
 ```
 
+Langkah pertama mengunduh sumber mentah ke `data/sources/` (tidak dikomit): berkas yang
+dipakai `build_indicators.py` pada langkah keempat dihasilkan di sana, sehingga pipeline
+tetap berjalan penuh dari nol.
+
 Seluruh pipeline di atas dijalankan dan diverifikasi pada laptop 8 GB yang sama: geometri mentah
 10 MB, artefak yang dikomit sekitar 3,5 MB, dan setiap langkah selesai dalam hitungan detik.
 
